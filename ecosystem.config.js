@@ -1,7 +1,7 @@
 module.exports = {
   apps: [{
     name: 'meridian',
-    script: 'source/index.js'
+    script: './index.js'
   }],
   deploy: {
     production: {
